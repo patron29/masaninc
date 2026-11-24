@@ -7,7 +7,6 @@ Company website for MASAN Inc. Deliberately generic: the site says nothing about
 - `/` Home
 - `/about/` Who we are and what we believe
 - `/services/` Building, operations, partnerships
-- `/team/` The five partners
 - `/contact/` Contact by email
 
 ## Tech
@@ -24,6 +23,4 @@ directory, no environment variables. Custom domain: masaninc.com.
 ## Notes
 
 - Copy is deliberately plain and generic: the site says nothing about what the company does.
-- Team titles use the confirmed roles. Simer Kaur is listed as HR, Rehab and
-  Marketing Director (her confirmed role).
 - Contact is email only (info@masaninc.com). No form, no backend.
