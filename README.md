@@ -1,12 +1,12 @@
 # MASAN Inc. website
 
-Company website for MASAN Inc., a residential assisted living company.
+Company website for MASAN Inc. Deliberately generic: the site says nothing about what the company does.
 
 ## Pages
 
 - `/` Home
 - `/about/` Who we are and what we believe
-- `/services/` Resident care, home operations, acquisitions
+- `/services/` Building, operations, partnerships
 - `/team/` The five partners
 - `/contact/` Contact by email
 
@@ -23,8 +23,7 @@ directory, no environment variables. Custom domain: masaninc.com.
 
 ## Notes
 
-- Copy is deliberately plain and honest: MASAN is acquiring its first homes
-  in Arizona and does not claim operating homes it does not yet own.
+- Copy is deliberately plain and generic: the site says nothing about what the company does.
 - Team titles use the confirmed roles. Simer Kaur is listed as HR, Rehab and
   Marketing Director (her confirmed role).
 - Contact is email only (info@masaninc.com). No form, no backend.
